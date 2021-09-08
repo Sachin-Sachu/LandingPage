@@ -53,7 +53,7 @@ header {
     color: #0b1e24;
 } 
 /* Login button Styling */
-.button1{
+button{
     padding: 9px 25px;
     background-color: rgb(252, 252, 252);
     border: none;
@@ -62,14 +62,14 @@ header {
     transition: all 0.3s ease 0s;
 }
 
-.button1:hover{
+button:hover{
     background-color: rgba(204, 224, 230, 0.8);
 }
 /* Get started button styling */
-.button {
-    background-color: rgb(212, 232, 241); 
+.button1 {
+    background-color: rgb(209, 196, 196); 
     border: none;
-    color: #00569c;
+    color: white;
     padding: 15px 32px;
     text-align: center;
     text-decoration: none;
@@ -78,7 +78,7 @@ header {
     margin: 5px 20%;
     cursor: pointer;
   }
-  .button:hover{
+  .button1:hover{
     background-color: rgba(204, 224, 230, 0.8);
 }
   

@@ -55,7 +55,7 @@ header {
 /* Login button Styling */
 button{
     padding: 9px 25px;
-    background-color: rgb(252, 252, 252);
+    background-color: rgb(209, 196, 196);
     border: none;
     border-radius: 50px;
     cursor: pointer;
@@ -66,21 +66,7 @@ button:hover{
     background-color: rgba(204, 224, 230, 0.8);
 }
 /* Get started button styling */
-.button1 {
-    background-color: rgb(209, 196, 196); 
-    border: none;
-    color: white;
-    padding: 15px 32px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 16px;
-    margin: 5px 20%;
-    cursor: pointer;
-  }
-  .button1:hover{
-    background-color: rgba(204, 224, 230, 0.8);
-}
+
   
 /* Welcome Text styling */
 #home h1 {
@@ -94,3 +80,17 @@ button:hover{
     margin: 10px 0 0 20%;
     font-size: 28px;
   }
+/* Get started Button */
+.button1 {
+    background-color: rgb(209, 196, 196); 
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 5px 20%;
+    cursor: pointer;
+  }
+  
